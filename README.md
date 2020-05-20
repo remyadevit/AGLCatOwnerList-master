@@ -1,30 +1,26 @@
 # Cat-Owner List
 
-A sample solution for a programming challenge from AGL.
+A sample solution for a programming challenge from AGL for the Digital developer role.
 
 ### Note:
 
 - This is VS2019 solution that runs on .NET Core 2.0.
 - It consists of a Console App, a .NET Standard Library and Test Projects.
-- It uses XUnit and Moq fosr unit testing.
+- It uses XUnit and Moq for the unit testing.
 - All unit tests are under the "Tests" folder, when viewing the solution on VS2019.
 
+## Test details
 
-### Background
+You can write it in any language you like. You can use any libraries/frameworks/SDKs you choose.
 
-The coding challenge is to build an app that consumes data from a JSON web service and outputs a list of all the cats in alphabetical order under a heading of the gender of their owner. For example:
-
+Example:
 Male
-
-  * Angel
-  * Molly
-  * Tigger
-
+Angel
+Molly
+Tigger
 Female
-
-  * Gizmo
-  * Jasper
-  
+Gizmo
+Jasper
 
 
   ### To Test:
