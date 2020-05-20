@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "c": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
